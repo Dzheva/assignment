@@ -1,0 +1,18 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: test-assignment
+  servlet:
+    multipart:
+      max-file-size: 10MB
+  springdoc:
+    swagger-ui:
+      enabled: true
+      path: /swagger-ui.html
+    api-docs.path: /api-docs
+
+minimum:
+  age: 18
+
