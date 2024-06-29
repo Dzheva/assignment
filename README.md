@@ -4,7 +4,7 @@
 
 This project is a Java Spring Boot application that implements a RESTful API for managing user resources. 
 The API follows best practices in RESTful API design and includes features such as user creation, 
-updating user fields, deleting users, and searching for users by birth date range.
+updating user fields, deleting users, and searching for users by birthdate range.
 
 **Getting Started**
 
